@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and then extend to support `react-router`, `redux` and a very simple *folder structure*
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and then extended to support `react-router`, `redux` and a very simple *folder structure*
 
 ## Available Scripts
 
