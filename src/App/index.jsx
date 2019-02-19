@@ -1,5 +1,5 @@
-import React from 'react'
+import Routes from '../views/Routes'
 
-const App = () => <h1>App</h1>
+const App = Routes
 
 export default App
