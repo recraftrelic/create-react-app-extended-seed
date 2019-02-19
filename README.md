@@ -1,5 +1,16 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and then extended to support `react-router`, `redux` and a very simple *folder structure*
 
+## How to use
+
+Clone the project to your local machine
+
+```
+git clone https://github.com/recraftrelic/create-react-app-extended-seed.git
+mv create-react-app-extended-seed your-project-name
+cd your-project-name
+yarn install
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
