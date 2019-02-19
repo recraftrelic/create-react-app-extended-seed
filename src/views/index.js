@@ -1,0 +1,1 @@
+/** All of the views goes into this folder */
