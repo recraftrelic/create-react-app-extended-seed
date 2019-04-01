@@ -6,6 +6,18 @@ const users = [
     {
         username: 'trivedi',
         password: 'trivedi@123'
+    },
+    {
+        username: 'Ajay',
+        password: 'ajay@123'
+    },
+    {
+        username: 'kirpal',
+        password: 'kirpal@123'
+    },
+    {
+        username: 'Joshua',
+        password: 'joshua@123'
     }
 ]
 
